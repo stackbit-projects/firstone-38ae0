@@ -4,13 +4,8 @@
     "header": {
         "logo_img": "images/Screenshot_20200729-102238_Acrobat for Samsung.jpg",
         "logo_img_alt": "Logo",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
             {
                 "label": "Features",
                 "url": "/features",
