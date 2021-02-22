@@ -27,8 +27,7 @@
                 "icon_position": "left",
                 "new_window": true,
                 "no_follow": false,
-                "type": "action",
-                "url": "mailto:jzieroth@live.com"
+                "type": "action"
             }
         ]
     },
