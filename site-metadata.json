@@ -38,12 +38,6 @@
                 "type": "action"
             },
             {
-                "label": "Email",
-                "url": "Jzieroth@live.com",
-                "style": "primary",
-                "has_icon": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "link",
