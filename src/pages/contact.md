@@ -30,6 +30,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
+        is_required: true
       - input_type: checkbox
         name: consent
         label: >-
@@ -38,7 +39,7 @@ sections:
         is_required: true
     submit_label: Send Message
     form_action: 'mailto:jzieroth@live.com'
-    hide_labels: true
+    hide_labels: false
 seo:
   title: Contact
   description: This is the contact page
