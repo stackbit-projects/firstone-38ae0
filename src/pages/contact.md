@@ -37,6 +37,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
+    form_action: 'mailto:name@domain'
 seo:
   title: Contact
   description: This is the contact page
