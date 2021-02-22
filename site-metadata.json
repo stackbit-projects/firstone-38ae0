@@ -8,8 +8,9 @@
         "nav_links": [
             {
                 "label": "Features",
-                "url": "/features",
-                "style": "link"
+                "url": "https://app.stackbit.com/studio/60338ae0174e0c00168f1a27",
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Pricing",
