@@ -28,7 +28,6 @@
             },
             {
                 "label": "Email",
-                "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": true,
                 "icon": "envelope",
