@@ -37,7 +37,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-    form_action: 'mailto:@domain'
+    form_action: 'mailto:jzieroth@live.com'
 seo:
   title: Contact
   description: This is the contact page
