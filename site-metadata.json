@@ -32,8 +32,8 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "envelope",
-                "icon_position": "left",
-                "new_window": false,
+                "icon_position": "right",
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             },
@@ -42,6 +42,17 @@
                 "url": "Jzieroth@live.com",
                 "style": "primary",
                 "has_icon": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "left",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ]
     },
