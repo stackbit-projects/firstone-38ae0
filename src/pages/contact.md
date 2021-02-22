@@ -30,7 +30,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        is_required: true
+        is_required: false
       - input_type: checkbox
         name: consent
         label: >-
