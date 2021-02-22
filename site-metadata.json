@@ -27,10 +27,10 @@
                 "style": "link"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Email",
                 "url": "lorem-ipsum",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "left",
                 "new_window": false,
@@ -39,8 +39,9 @@
             },
             {
                 "label": "Email",
-                "url": "/signup",
-                "style": "primary"
+                "url": "Jzieroth@live.com",
+                "style": "primary",
+                "has_icon": true
             }
         ]
     },
