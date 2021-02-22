@@ -36,7 +36,7 @@ sections:
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
-        is_required: true
+        is_required: false
     submit_label: Send Message
     form_action: 'mailto:jzieroth@live.com'
     hide_labels: false
